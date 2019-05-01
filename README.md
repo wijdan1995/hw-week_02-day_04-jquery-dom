@@ -2,6 +2,10 @@
 
 # jQuery and DOM 
 
+Checkout to a new branch named `homework`.
+
 Open the [exercise/index.html](exercise/index.html) in your browser.
 
 Complete the 10 question in [exercise/js/main.js](exercise/js/main.js).
+
+Test your solutions by clicking the buttons in the [exercise/index.html](exercise/index.html) file open in your browser.
